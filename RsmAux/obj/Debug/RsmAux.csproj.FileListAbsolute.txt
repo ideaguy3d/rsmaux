@@ -1,0 +1,7 @@
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\bin\Debug\RsmAux.exe.config
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\bin\Debug\RsmAux.exe
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\bin\Debug\RsmAux.pdb
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\obj\Debug\RsmAux.csprojAssemblyReference.cache
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\obj\Debug\RsmAux.csproj.CoreCompileInputs.cache
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\obj\Debug\RsmAux.exe
+C:\Users\julius\Documents\GitHub\RsmAux\RsmAux\obj\Debug\RsmAux.pdb

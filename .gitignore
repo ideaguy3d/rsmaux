@@ -1,0 +1,7 @@
+**/**/AutoPrint/bin/*
+**/**/AutoPrint/obj/*
+**/**/AutoCASS/bin/*
+**/**/AutoCASS/obj/*
+**/**/packages/*
+**/**/.vs/*
+**/**/**/.git
